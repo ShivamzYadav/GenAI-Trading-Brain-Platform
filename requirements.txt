@@ -1,0 +1,10 @@
+google-genai
+python-dotenv
+pandas
+numpy
+requests
+scikit-learn
+fastapi
+pydantic
+streamlit
+uvicorn
